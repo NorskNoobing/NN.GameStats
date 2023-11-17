@@ -1,7 +1,7 @@
 param (
     #Manual params
     [string]$Description = "A module to update game stats from multiple games and APIs",
-    [array]$Tags = @("Gaming","Apex Legends","Valorant"),
+    [array]$Tags = @("Gaming","ApexLegends"),
     [version]$PsVersion = "7.2",
     [string]$Author = "NorskNoobing",
 
